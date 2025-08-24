@@ -21,7 +21,7 @@
 📂 Project Structure
 
     ```bash
-    restaurant-dashboard/
+    Task3/
     │
     ├── backend/
     │   ├── menu_service/
@@ -30,14 +30,15 @@
     │   └── inventory_service/
     │
     ├── frontend/  (React app)
-    │   ├── src/
-    │   │   ├── components/
-    │   │   │   ├── MenuItems.js
-    │   │   │   ├── Orders.js
-    │   │   │   ├── Reservations.js
-    │   │   │   └── Inventory.js
-    │   │   └── App.js
-    │   └── package.json
+    |   └── restaurant-ui
+    |       ├── src/
+    |       │   ├── components/
+    |       │   │   ├── MenuItems.js
+    |       │   │   ├── Orders.js
+    |       │   │   ├── Reservations.js
+    |       │   │   └── Inventory.js
+    |       │   └── App.js
+    |       └── package.json
     │
     └── README.md
 
@@ -89,3 +90,4 @@
     <img width="1280" height="702" alt="Screenshot 2025-08-24 at 7 19 55 AM" src="https://github.com/user-attachments/assets/e204a759-abc4-4f0c-b152-26e1c3fbe7e3" />
 
 👩‍💻 Author: Developed by Geetika Agarwal as part of an internship project.
+
